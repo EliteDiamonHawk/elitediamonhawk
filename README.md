@@ -1,16 +1,25 @@
-## Hi there 👋
+## Links
 
-<!--
-**EliteDiamonHawk/elitediamonhawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Resume
 
-Here are some ideas to get you started:
+<https://elitediamonhawk.github.io/resume/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio
+
+<https://elitediamonhawk.github.io/portfolio/>
+
+### LinkedIn
+
+<https://www.linkedin.com/in/sjsu-dylanhuang>
+
+### HandShake
+
+<https://sjsu.joinhandshake.com/profiles/sjsu-dylanhuang>
+
+### Instagram
+
+<https://www.instagram.com/elitediamonhawk>
+
+### Twitter / X
+
+<https://x.com/EliteDiamonHawk>
